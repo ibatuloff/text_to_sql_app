@@ -1,0 +1,8 @@
+{
+    "model": "llama-3-sqlcoder-8b",
+    "keep_alive": 0, 
+    "options": {
+        "num_ctx": 2048
+    },
+    "path": "chromadb"
+}
